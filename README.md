@@ -16,7 +16,7 @@
 **Contributors:**
 1. Praveen Swaminathan: Was in charge of waveform generation (sine, sawtooth, triangle, square) and ADSR envelope classes.
 
-2. Aritra Dutta: Was in charge of GUI layout, and tying classes together for GUI dropdown menus, and button presses
+2. Aritra Dutta: Was in charge of GUI layout, and tying waveform and the GUI Layout together for the dropdown menus, button presses, and sliders.
 
 
 
