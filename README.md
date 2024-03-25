@@ -21,9 +21,9 @@
 
 
 **Setup: Installation**
-``pip install sounddevice``
-``pip install tkinter``
-``pip install numpy``
+- ``pip install sounddevice``
+- ``pip install tkinter``
+- ``pip install numpy``
 
 
 
@@ -50,6 +50,7 @@ In this project, the main highlights are the different types of waveforms a note
 **Citations**
 
 https://www.youtube.com/watch?v=6lETCqsDmOw
+
 https://www.youtube.com/watch?v=Vgp7C5TTsCs
 
 Both of these videos gave insight into how we needed to approach the code of this project, with the oscillations and the ADSR envelope. While these were the main sources for the code in the project, other sources were used for more nuanced issues, with certain bugs in the GUI, and tying modulation and oscillation together. 
