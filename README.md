@@ -9,8 +9,6 @@
 - Potential Application of synthesizer
 - Basic setup and Usage
 - How to use and documentation (screenshots)
-- Class material
-- Citations
 
 
 **Contributors:**
