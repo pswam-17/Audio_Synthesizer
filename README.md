@@ -1,4 +1,4 @@
-# ECE45 Audio Synthesizer
+# Audio Synthesizer
 
 ### Praveen Swaminathan and Aritra Dutta
 
